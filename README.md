@@ -68,9 +68,11 @@ A CFD slosh study validated that the baffle/reservoir design actually prevents f
 - Load case: 13.322 m/s² lateral acceleration (1.358g) — sourced from the suspension team's cornering targets, applied in the direction of worst-case slosh
 
 ![Slosh Simulation - Isometric](images/sloshsimiso.png)
+
 *Fuel volume fraction contour, isometric view*
 
 ![Slosh Simulation - Section](images/Slosh_sim.jpg)
+
 *Fuel volume fraction contour, cross-section view*
 
 **Acceleration & braking:**
@@ -100,6 +102,7 @@ Converting the engine from wet-sump to dry-sump operation required a purpose-bui
 - **Net result: 0.304 L smaller than the old tank**, while maintaining that margin
 
 ![Oil Tank Design](images/OILTANK.png)
+
 *Dry-sump oil tank with horizontal baffle stack*
 
 | Spec | Old Tank | New Tank |
