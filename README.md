@@ -5,6 +5,7 @@
 Designed, analyzed, and manufactured the endurance-run fuel tank and dry-sump oil tank for the powertrain subsystem, coordinating cross-functional requirements between the powertrain and chassis sub-teams.
 
 ![Fuel Tank Assembly](images/FT.png)
+
 *Fuel tank assembly with internal baffle structure and filler neck*
 
 ---
