@@ -44,6 +44,7 @@ To size the tank correctly, fuel consumption for a full endurance run was estima
 | Bottom reservoir | — | ~450 ml dedicated anti-starvation reservoir |
 
 ![Fuel Tank Alternate View](images/FT2.png)
+
 *Internal baffle and reservoir structure*
 
 **Baffle hole sizing was deliberately asymmetric:** the bottom reservoir plate uses 6mm holes (restrictive, to hold fuel in the reservoir under slosh) while the upper baffle plates use 7mm holes (freer flow, since their job is structural damping rather than fuel retention). The fuel return line was also routed to dump directly into the bottom reservoir, reinforcing the anti-starvation strategy.
