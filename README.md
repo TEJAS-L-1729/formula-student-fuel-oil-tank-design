@@ -129,9 +129,11 @@ For the full reasoning behind material choice, packaging constraints, and sealin
 Both tanks were carried through to physical build, fabricated from welded Aluminium 6061 sheet — chosen over steel, plastic, and composite alternatives for its balance of low weight, weldability, and fuel/oil compatibility (full comparison in [DESIGN-DECISIONS.md](DESIGN-DECISIONS.md#material-selection)).
 
 ![Fuel Tank - Manufactured](images/FT_manuf.jpeg)
+
 *Fuel tank baffle assembly during fabrication — welded aluminum baffle plates matching the CAD hole pattern*
 
-![Oil Tank - Manufactured](images/OT_manuf.jpeg)
+![Oil Tank - Manufactured](images/OT_MANUF.jpeg)
+
 *Completed dry-sump oil tank with welded filler neck and internal baffle stack*
 
 ---
