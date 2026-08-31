@@ -73,7 +73,7 @@ A CFD slosh study validated that the baffle/reservoir design actually prevents f
 
 *Fuel volume fraction contour, isometric view*
 
-![Slosh Simulation - Section](images/Slosh_sim.jpg)
+![Slosh Simulation - Section](images/Slosh-sim.jpg)
 
 *Fuel volume fraction contour, cross-section view*
 
