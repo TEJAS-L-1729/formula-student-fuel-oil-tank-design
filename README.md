@@ -20,6 +20,22 @@ Formula Student endurance events demand a fuel system that survives sustained la
 Both parts were carried from design through to physical manufacture.
 
 ---
+ 
+## 🙋 Individual Contribution
+ 
+This section clarifies individual scope within a club project. The engineering design of both tanks — geometry, consumption sizing, CFD slosh validation, sealing flange, and dry-sump redesign — was carried out individually. Coordination with other sub-teams was limited to packaging constraints (chassis) and load-case inputs (suspension); manufacturing cost was funded by the club.
+ 
+| Area | Scope |
+|---|---|
+| 📐 **Fuel Tank Design** | Tank geometry, internal baffle layout, and anti-starvation reservoir, including the asymmetric baffle-hole sizing strategy |
+| ⚙️ **Consumption Sizing** | Endurance-run fuel consumption cross-validated using two independent methods (MoTec log-based and OptimumLap simulation-based), converging to 1.55% error |
+| 🌊 **CFD Slosh Validation** | Multiphase VOF slosh simulation for the worst-case low-fuel window, including mesh-independence checks |
+| 🔩 **Sealing Flange** | Machined sealing flange interfacing the tank to the GSX-R600 fuel pump, including O-ring groove sizing per the Parker O-Ring Handbook |
+| 🛢️ **Dry-Sump Oil Tank** | Redesigned from first principles for the dry-sump conversion, reducing volume while preserving safety margin and improving chassis packaging |
+| 🏭 **Manufacturing Coordination** | Fabrication of both tanks (welded Aluminium 6061) through to physical build |
+| 🤝 **Cross-Subsystem Coordination** | Packaging constraints agreed with the chassis sub-team; cornering load case sourced from the suspension team's targets |
+
+---
 
 ## Fuel Tank Design
 
