@@ -37,6 +37,27 @@ This section clarifies individual scope within a club project. The engineering d
 
 ---
 
+### Skills Learnt
+ 
+![DFM](https://img.shields.io/badge/-Design%20for%20Manufacturing-455A64?style=flat&logoColor=white)
+![CFD](https://img.shields.io/badge/-Multiphase%20VOF%20CFD-1565C0?style=flat&logoColor=white)
+![Sealing Design](https://img.shields.io/badge/-Sealing%20%2F%20O--Ring%20Design-B71C1C?style=flat&logoColor=white)
+![Procurement](https://img.shields.io/badge/-Material%20Procurement%20%26%20Quotation-FF6F00?style=flat&logoColor=white)
+![Sheet Metal](https://img.shields.io/badge/-Sheet%20Metal%20%2F%20Laser--Cut%20Drawings-6A1B9A?style=flat&logoColor=white)
+![Workshop Safety](https://img.shields.io/badge/-Workshop%20Safety-B71C1C?style=flat&logoColor=white)
+ 
+- Cross-validation of an engineering estimate using two independent methods before committing to a design
+- Multiphase (VOF) CFD slosh simulation methodology, including mesh-independence verification before trusting results
+- Sealing and O-ring groove design from a reference handbook, matched to actual pump mounting geometry
+- Design for Manufacturing — incorporating fabrication constraints (welding, hole patterns, tolerances) into geometry and material selection
+- Cross-subsystem coordination — aligning packaging constraints and load-case inputs with the chassis and suspension sub-teams
+- Raw material quotation and procurement, including sourcing quotes from hardware and material dealers
+- Preparing fabrication-ready drawings for laser-cut sheet metal components
+- Hands-on use of workshop/garage fabrication tools (welding, cutting, hand and power tools) during assembly
+- Workshop safety practices specific to an automotive fabrication environment (material handling, fuel/oil system safety, tool safety)
+
+---
+
 ## Fuel Tank Design
 
 ### Consumption Sizing — Cross-Validated Across Two Independent Methods
